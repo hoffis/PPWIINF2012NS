@@ -1,0 +1,39 @@
+=== PRZEDMOWA ===
+
+Cześć,
+
+To repozytorium ma na celu publikowanie i dystrybuowanie materiałów związanych ze 
+studiami na niestacjonarnym kierunku Informatyka 2012, Wydziału Informatyki na Politechnice Poznańskiej.
+Będzie można tutaj znaleźć wiele rzeczy, aczkolwiek napewno najważniejszą i najczęściej
+sprawdzaną będą notatki z wykładów, ćwiczeń i labów.
+
+Mam nadzieję, że repozytorium będzie pomocne dla wszysztkich studentów na naszym roku i chętnie
+będziecie się udzielać ze swoimi zawartościami, a przede wszystkim notatkami.
+
+Pozdrawiam,
+Artur Moczulski
+
+=== DODATKOWE ZASOBY ===
+http://git-scm.com/
+
+=== STRUKTURA REPOZYTORIUM ===
+
+== NOTATKI ==
+Notatki są zawarte w foldery "notatki". Zawiera on podfoldery dla przedmiotów.
+
+Każdy przedmiot jest podzielony na typy zajeć, tj. ćwiczenia, wykłądy, itd.
+
+Dalej w hierarchi znajdują się podfoldery dla różnych dat zjazdów.
+
+Następnie, podfoldery dla różnych grup dziekańskich.
+
+Na najniższym szczeblu struktury znajdują się podfoldery dla każdego studenta, który zamieszcza swoje notatki.
+
+Zatem, na przykład, aby znaleźć notatki z ćwiczeń grupy dziekańskiej I2 z matematyki dyskretnej ze zjazdu, który
+odbył się 07/10/2012 sporządzone przez Artur Moczulskiego, należy przejść do lokacji: 
+"notatki/matematyka dyskretna/ćwiczenia/07-10-2012/I2/arturmoczulski"
+
+== DODAWANIE WŁASNYCH NOTATEK ==
+Oczywiście jeżeli chcesz zamieścić swoje notatki, nie ma problemu. Możesz dodać notatki za pomocą GIT i wysłać
+pull request na GitHub'ie, aby dołączyć Twoje notatki do repozytorium. Pamiętaj jednak, aby umieścić je w odpowiedniej
+lokalizacji repozytorium.
