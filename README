@@ -32,6 +32,10 @@ odbył się 07/10/2012 sporządzone przez Artur Moczulskiego, należy przejść 
 "notatki/matematyka dyskretna/ćwiczenia/07-10-2012/I2/arturmoczulski"
 
 == DODAWANIE WŁASNYCH NOTATEK ==
+Przede wszystkim, pamiętaj że zamieszczając tutaj jakiekolwiek zawartości zgadzasz się z warunkami zawartymi w pliku
+LICENCE tego repozytorium, czyli GPLv3.0 - krótkomówiąc, zgadzasz się aby wszyscy mogli korzystać z zamieszczanych
+przez Ciebie materiałów w dowolny sposób.
+
 Oczywiście jeżeli chcesz zamieścić swoje notatki, nie ma problemu. Aby to zrobić będziesz potrzebować konta na
 GitHub'ie, stworzyć własny branch repozytorium, dodać swoje notatki i inne zawartości, wysłać commit, a gdy 
 wszystko będzie gotowe, wysłać pull request.
