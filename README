@@ -13,8 +13,6 @@ będziecie się udzielać ze swoimi zawartościami, a przede wszystkim notatkami
 Pozdrawiam,
 Artur Moczulski
 
-=== DODATKOWE ZASOBY ===
-http://git-scm.com/
 
 === STRUKTURA REPOZYTORIUM ===
 
@@ -34,6 +32,14 @@ odbył się 07/10/2012 sporządzone przez Artur Moczulskiego, należy przejść 
 "notatki/matematyka dyskretna/ćwiczenia/07-10-2012/I2/arturmoczulski"
 
 == DODAWANIE WŁASNYCH NOTATEK ==
-Oczywiście jeżeli chcesz zamieścić swoje notatki, nie ma problemu. Możesz dodać notatki za pomocą GIT i wysłać
-pull request na GitHub'ie, aby dołączyć Twoje notatki do repozytorium. Pamiętaj jednak, aby umieścić je w odpowiedniej
-lokalizacji repozytorium.
+Oczywiście jeżeli chcesz zamieścić swoje notatki, nie ma problemu. Aby to zrobić będziesz potrzebować konta na
+GitHub'ie, stworzyć własny branch repozytorium, dodać swoje notatki i inne zawartości, wysłać commit, a gdy 
+wszystko będzie gotowe, wysłać pull request.
+
+Jeżeli nie masz wcześniejszego doświadczenia z Git i GitHub, wszystkie informacje i pomoc możesz znaleźć tutaj:
+https://help.github.com/
+
+
+=== DODATKOWE ZASOBY ===
+http://git-scm.com/
+https://help.github.com/
